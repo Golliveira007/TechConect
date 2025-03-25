@@ -10,12 +10,12 @@ O primeiro evento confirmado para divulgação é o GDG Londrina, que será real
 # Tecnologias Utilizadas
 
 Para o desenvolvimento do site, serão empregadas as seguintes tecnologias:
-<p>
-- HTML: para a estruturação dos conteúdos das páginas;
-- CSS: para a estilização do site, garantindo um design moderno e atraente;
-- JavaScript: para adicionar interatividade às páginas;
-- GitHub Pages: como plataforma de hospedagem do site.
-</p>
+<ol>
+<li>HTML: para a estruturação dos conteúdos das páginas;</li>
+<li>CSS: para a estilização do site, garantindo um design moderno e atraente;</li>
+<li>JavaScript: para adicionar interatividade às páginas;</li>
+<li>GitHub Pages: como plataforma de hospedagem do site.</li>
+</ol>
 
 # Estrutura do Site
 <p>
